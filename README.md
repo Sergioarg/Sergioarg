@@ -1,6 +1,4 @@
- ### Hi there, I am Sergio Ramos . 🤓
-
----
+##  Hi there, I am Sergio Ramos . 🤓
 
 ### 👾 | About me. 
 
