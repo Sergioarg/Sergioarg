@@ -3,12 +3,18 @@
 
 ### 👾  About me. 
 
-I consider myself a friendly person learning new things every day in the best way, learning from others and contributing to them in the best way.
+Software Developer with 3+ years of experience in the complete software development life cycle (SDLC). My experience includes designing, building, and maintaining scalable systems using technologies such as Python (Django, Flask), PHP (Yii), JavaScript, TypeScript (React, Node.js, Redux), HTML, CSS, and MySQL, as well as Amazon Web Services(AWS) for cloud solutions.
+
+I have also worked extensively with APIs and REST APIs, using tools like Postman, and managed data with relational databases such as MySQL, PostgreSQL, Microsoft SQL Server (MSSQL).
+
+This is a brief overview of my professional career. Personally, I consider myself a constant and dedicated professional, always focused on improving myself as a professional and as a person.
 
 
 **🌐  You can find me on:**
 
-<a  href="https://www.linkedin.com/in/sergio-ramos-dev/" target="_blank" ><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"  data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"  style="max-width:100%;"></a>
+<a  href="https://www.linkedin.com/in/sergio-ramos-dev/" target="_blank" >
+	<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="80" height="80">
+</a>
 
 
 ---
